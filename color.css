@@ -1,0 +1,41 @@
+h2 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+body {
+  color: white;
+  background-color: #2b2b2b;
+}
+
+video {
+  color: red
+}
+
+button {
+  font-family: "微软雅黑", helvetica, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid rgb(3 224 243 / 0.6);
+  background: rgb(3 224 243 / 0.6);
+  border-radius: 10px;
+  padding: 3px 10px;
+  display: inline-block;
+}
+
+input {
+  font-family: "微软雅黑", helvetica, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid rgb(127 255 0 / 0.6);
+  background: rgb(127 255 0 / 0.6);
+  border-radius: 10px;
+  padding: 3px 10px;
+  display: inline-block;
+}
+
